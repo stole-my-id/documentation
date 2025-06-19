@@ -11,8 +11,6 @@ layout:
   pagination:
     visible: true
 ---
-// pluh
-
 # Welcome
 
 Welcome to the stole-my.id service! The documentation is a way to learn how to be a master at our service and how to get the best usage out of your brand new subdomain!
